@@ -1,4 +1,4 @@
-# simple product page
+# Simple Product Page
 
 # Getting Started with Create React App
 
